@@ -1,0 +1,68 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic",
+    "price": 0,
+    "duration": "month",
+    "description": "For beginners getting started",
+    "features": [
+      "Access to free content",
+      "Limited support",
+      "Community access",
+      "Basic tutorials and guides",
+      "Access to public forums",
+      "Weekly newsletter",
+      "Limited project templates",
+      "Basic progress tracking"
+    ],
+    "isPopular": false,
+    "buttonText": "Get Started",
+    "path": "/signup/basic"
+  },
+  {
+    "id": "standard",
+    "name": "Standard",
+    "price": 9,
+    "duration": "month",
+    "description": "Best for regular users",
+    "features": [
+      "All Basic features",
+      "Unlimited access to content",
+      "Priority support",
+      "Download resources",
+      "Access to premium tutorials",
+      "Advanced project templates",
+      "Ad-free experience",
+      "Monthly webinars",
+      "Progress analytics dashboard",
+      "Access to private community groups"
+    ],
+    "isPopular": true,
+    "buttonText": "Choose Plan",
+    "path": "/signup/standard"
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "price": 19,
+    "duration": "month",
+    "description": "For advanced users and professionals",
+    "features": [
+      "All Standard features",
+      "1-on-1 mentorship",
+      "Exclusive content",
+      "Early access to new features",
+      "Personalized learning roadmap",
+      "Career guidance and portfolio review",
+      "Certificate of completion",
+      "Live coding sessions",
+      "Priority feature requests",
+      "Direct chat with mentors",
+      "Advanced analytics and insights",
+      "Access to beta features"
+    ],
+    "isPopular": false,
+    "buttonText": "Go Premium",
+    "path": "/signup/premium"
+  }
+]
